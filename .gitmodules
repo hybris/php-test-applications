@@ -1,0 +1,3 @@
+[submodule "php-info"]
+	path = php-info
+	url = https://github.com/dmikusa-pivotal/cf-ex-php-info
